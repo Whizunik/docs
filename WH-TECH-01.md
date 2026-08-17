@@ -17,7 +17,7 @@
 | Document Type | Technical Assessment & Module Register (Day 1 — inventory exercise) |
 | Version | 2.0 |
 | Classification | Internal — Draft for Sankalp review |
-| Prepared by | Technical Review (deep-dive inspection of repository: frontend, backend, database layer, configuration, deployment, documentation) |
+| Prepared by | Ram Shrivastava |
 | Reviewed by | Sankalp (pending) |
 | Date | 2026-08-17 |
 | Scope | Current, actually-implemented product and module inventory |
@@ -26,8 +26,8 @@
 
 | Version | Date | Author | Description of Changes |
 |---------|------|--------|------------------------|
-| 1.0 | 2026-08-17 | Technical Review | Initial Day 1 product & module register (34 modules, ≈260 features) |
-| 2.0 | 2026-08-17 | Technical Review | Restructured to audit-ready format; added Key Findings and a unified Client-Specific Findings register (Globalor & Adventra); removed local path references; updated Globalor evidence (brand present in frontend) |
+| 1.0 | 2026-08-17 | Ram Shrivastava | Initial Day 1 product & module register (34 modules, ≈260 features) |
+| 2.0 | 2026-08-17 | Ram Shrivastava | Restructured to audit-ready format; added Key Findings and a unified Client-Specific Findings register (Globalor & Adventra); removed local path references; updated Globalor evidence (brand present in frontend) |
 
 ---
 
