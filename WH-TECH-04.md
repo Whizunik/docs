@@ -34,23 +34,6 @@
 |---------|------|--------|------------------------|
 | 1.0 | 2026-08-18 | Ram Shrivastava | Initial Day 4 architecture review & expansion roadmap |
 
-### Critical Rules Applied
-
-- **Do NOT implement any new Intelligence Engine functionality.**
-- **Do NOT refactor existing Intelligence Engine code.**
-- **Do NOT modify algorithms.**
-- **Do NOT optimize calculations.**
-- **Do NOT migrate databases.**
-- **Do NOT create new forecasting systems.**
-- **Do NOT build receivables forecasting, supplier-payment forecasting, cash-flow forecasting, or working-capital forecasting.**
-- **Do NOT change the current production architecture.**
-- **Do NOT silently fix architectural problems.**
-- Current architecture documented from actual implementation.
-- Future architecture clearly separated from current architecture.
-- Recommendations are architectural concepts only.
-- All major architectural changes marked for Sankalp review.
-- No Day 5 work started.
-
 ---
 
 ## 1. Document Purpose
