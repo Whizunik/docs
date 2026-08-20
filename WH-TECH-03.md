@@ -33,22 +33,6 @@
 |---------|------|--------|------------------------|
 | 1.0 | 2026-08-18 | Ram Shrivastava | Initial Day 3 current-state Intelligence Engine audit & specification |
 
-### Critical Rules Applied
-
-- **Do NOT build new intelligence functionality.**
-- **Do NOT modify forecasting algorithms.**
-- **Do NOT tune model parameters.**
-- **Do NOT refactor intelligence-related code.**
-- **Do NOT replace algorithms with better algorithms.**
-- **Do NOT make assumptions about business logic.**
-- **Do NOT document planned functionality as implemented.**
-- **Do NOT invent mathematical formulas where the implementation cannot verify them.**
-- **Do NOT silently correct existing calculations.**
-- **Document the system exactly as it exists today.**
-- If implementation and intended business logic appear different, document the discrepancy.
-- If something cannot be determined from the code/data/configuration, mark it: *Unknown / Not Found / Partially Implemented / Needs Sankalp Review*.
-- No code was modified. No recommendations were implemented. Day 4 work was not started.
-
 ---
 
 ## 1. Document Purpose
